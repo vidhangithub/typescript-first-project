@@ -1,1 +1,0 @@
-{"version":3,"file":"GithubServiceCall.d.ts","sourceRoot":"","sources":["../../src/github_calls/GithubServiceCall.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,OAAO,EAAE,MAAM,kBAAkB,CAAC;AAE3C,qBAAa,oBAAoB;IAuB5B,WAAW,CAAC,QAAQ,EAAE,MAAM,EAAE,EAAE,EAAE,CAAC,IAAI,EAAG,OAAO,KAAK,GAAG;CAmBzD"}
